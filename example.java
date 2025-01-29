@@ -3,6 +3,8 @@
 
    public static void main(String[] a)
     {
-    System.out.print(3 + 5);
+        int num1=3;
+        int num2=5;
+    System.out.print(num1+ num2);
    }
 }
