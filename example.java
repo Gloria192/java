@@ -5,6 +5,7 @@
     {
         int num1=3;
         int num2=5;
-    System.out.print(num1+ num2);
+        int result=num1+num2;
+    System.out.print(result);
    }
 }
