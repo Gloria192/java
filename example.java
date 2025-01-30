@@ -9,7 +9,8 @@
     //     int result=num1+num2;
     // System.out.print(result);
     // declare byte
-    byte b=127;
-    System.out.println(b);
+    byte b = 125;
+    int c= b;
+    System.out.println(c);
    }
 }
