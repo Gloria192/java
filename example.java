@@ -48,13 +48,56 @@
 // result=n%2==0 ? 10 : 20;
 // System.out.println(result);
 //switch
-int c=1;
-System.out.println("Monday");
-System.out.println("Tuesday");
-System.out.println("Wensday");
-System.out.println("Thurday");
-System.out.println("Friday");
-System.out.println("Saturday");
-System.out.println("Sunday");
+// int c=7;
+// switch(c){
+//    case 1:
+//    System.out.println("Monday");
+//    break;
+//    case 2:
+//    System.out.println("Tuesday");
+//    break;
+//    case 3:
+  
+//    System.out.println("Wensday");
+//    break;
+//    case 4:
+//    System.out.println("Thurday");
+//    break;
+//    case 5:
+//    System.out.println("Friday");
+//    break;
+//    case 6:
+//    System.out.println("Saturday");
+//    break;
+//    case 7:
+//    System.out.println("Sunday");
+//    break;
+//    default:
+//    System.out.println("enter the valid number");
+//       }
+ //repeat this  statement 4 times
+//  loop-while, do while,for
+// int i=1;
+// while (i<=4) 
+// {
+//    System.out.println("Hi"+i);
+//    int j=1;
+//    while(j<=3){
+//       System.out.println("hello"+j);
+//       ++j;
+//    }
+//    i++;
+// }
+//do while loop
+// int y=1;
+// do
+// {
+//    System.out.println(y);
+//    y++;
+// }while(y<=5);
+//for loop
+for(int i=1;i<=4;i++){
+   System.out.println(i);
+}
    }
 }
