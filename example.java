@@ -36,8 +36,16 @@
 
     // System.out.println(b);
     //condition statement
-    int x=18;
-    if(x>10 && x<=20)
-   System.out.println("hello");
+//     int x=18;
+//     if(x>10 && x<=20)
+//    System.out.println("hello");
+// else
+//    System.out.println("Bye");
+//print even or odd numb
+int n =9;
+// if (n%2==o)
+int result=0;
+result=n%2==0 ? 10 : 20;
+System.out.println(result);
    }
 }
