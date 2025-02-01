@@ -42,10 +42,19 @@
 // else
 //    System.out.println("Bye");
 //print even or odd numb
-int n =9;
+// int n =9;
 // if (n%2==o)
-int result=0;
-result=n%2==0 ? 10 : 20;
-System.out.println(result);
+// int result=0;
+// result=n%2==0 ? 10 : 20;
+// System.out.println(result);
+//switch
+int c=1;
+System.out.println("Monday");
+System.out.println("Tuesday");
+System.out.println("Wensday");
+System.out.println("Thurday");
+System.out.println("Friday");
+System.out.println("Saturday");
+System.out.println("Sunday");
    }
 }
