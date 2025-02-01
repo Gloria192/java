@@ -21,18 +21,19 @@
     // byte c=30;
     // int result=b*c;
     // System.out.println(result);
-    // 5.operators
-    int num1=8;
-    int num2=5;
-    int result1=num1+num2;
-    int result2=num1-num2;
-    int result3=num1*num2;
-    int result4=num1/num2;
-    int result5=num1%num2;
-    System.out.println(result1);
-    System.out.println(result2);
-    System.out.println(result3);
-    System.out.println(result4);
-    System.out.println(result5);
+    // 
+    // 7.increnment
+    // int num1=7;
+    // num1=num1+2;
+    // num1++; //post - increment
+    // ++num1; //pre- incerment
+    // num1+=2;
+    // num1--;  //decrement
+    // System.err.println(num1);
+    int x=6;
+    int y=5;
+    Boolean b=x<y;
+    
+    System.out.println(b);
    }
 }
