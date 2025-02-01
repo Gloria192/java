@@ -30,10 +30,14 @@
     // num1+=2;
     // num1--;  //decrement
     // System.err.println(num1);
-    int x=6;
-    int y=5;
-    Boolean b=x<y;
-    
-    System.out.println(b);
+    // int x=6;
+    // int y=5;
+    // Boolean b=x<y;
+
+    // System.out.println(b);
+    //condition statement
+    int x=18;
+    if(x>10 && x<=20)
+   System.out.println("hello");
    }
 }
